@@ -1,0 +1,4 @@
+        <h3 class="animate four fadeInUpBig text-lg text-stone-300 font-thin fnt mt-1"><i style="color: green;" class="fa-solid fa-plus"></i> Temp Spoofer</h3>
+        <h3 class="animate five fadeInUpBig text-lg text-stone-300 font-thin fnt mt-1"><i style="color: green;" class="fa-solid fa-plus"></i> Perm Spoofer</h3>
+        <h3 class="animate five fadeInUpBig text-lg text-stone-300 font-thin fnt mt-1"><i style="color: green;" class="fa-solid fa-plus"></i> Fortnite Cleaner</h3>
+       <h3 class="animate five fadeInUpBig text-lg text-stone-300 font-thin fnt mt-1"><i style="color: green;" class="fa-solid fa-plus"></i> Bloodhunt External</h3>
